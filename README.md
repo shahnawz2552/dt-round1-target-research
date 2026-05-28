@@ -1,10 +1,10 @@
 # DeepThought — Round 1 Submission
 ## Business Analytics Internship · Target Company Research
 
-**Candidate:** _[Your Name]_
+**Candidate:** Shahnawz Wali
 **City picked:** Hyderabad
 **Segments picked:** Custom synthesis & specialty chemicals (Basket A) + Complex APIs & regulated pharma (Basket B) + select specialty biologics/diagnostics
-**Submission date:** _[Date]_
+**Submission date:** 26/05/2026
 
 > **Important — read `SUBMISSION-STATUS.md` first.** It explains exactly what's complete vs what needs your input before submitting on Internshala.
 
