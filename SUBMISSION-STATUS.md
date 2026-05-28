@@ -67,14 +67,14 @@ The fail list is now substantially stronger after the second research pass:
 - **Wrong city (8):** Vamsi Labs Solapur, Anthem Biosciences (Bengaluru), Dishman Carbogen Amcis (Ahmedabad), Bharat Serums (Mumbai), Synthimed Labs (Punjab), Goldline Pharmaceuticals (Maharashtra), Symbiotec Pharmalab (Indore likely), Astal Laboratories (Jaipur HQ)
 - **Financial / quality distress (3):** Sri Krishna Pharmaceuticals (FDA Warning Letter data integrity), Pharmaids Pharmaceuticals (-20% ROE 3yr), Krebs Biochemicals (kept as borderline B but flagged)
 
-**Total: 41 companies documented as rejections with specific reasoning.** This is the strongest evidence of ICP judgment in the submission.
+**Total: 51+ companies documented as rejections with specific reasoning.** This is the strongest evidence of ICP judgment in the submission.
 
 ---
 
 ## Three options for closing the gap to 25
 
 ### Option A — Ship 16 with extra-strong fail list (1-2 hours of your time)
-- Submit as-is (16 well-evidenced + 41 fails)
+- Submit as-is (17 well-evidenced + 51+ fails)
 - Lean hard on the fail list as evidence of judgment
 - Use the README to explain the quality-over-quantity stance
 - **Risk:** numerically below the 25 ask
@@ -102,6 +102,6 @@ The fail list is now substantially stronger after the second research pass:
 
 ## Bottom line
 
-**16 evidence-backed companies + 41 documented fails + complete Part B + complete code + complete methodology + diagram template** is a structurally complete, defensible submission.
+**17 evidence-backed companies + 51+ documented fails + complete Part B + complete code + complete methodology + diagram template** is a structurally complete, defensible submission.
 
 Choose Option A, B, or C based on your time budget. Whatever you do, **do NOT pad the CSV with fabricated rows** — DT specifically calls this out as a rejection trigger.
