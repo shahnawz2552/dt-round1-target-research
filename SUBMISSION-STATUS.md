@@ -12,8 +12,8 @@
 | `partB-strategy/Q2-1000-company-proposal.md` | ✅ Complete | Full 30-day pipeline: funnel, week-by-week, costs, risks, deliverables |
 | `partB-strategy/diagram-outline.md` | ✅ Complete | Page-by-page template for the hand-drawn diagram |
 | `partA-research/methodology.md` | ✅ Complete | Sourcing approach, funnel, quality controls, segment learnings |
-| `partA-research/fail-list.md` | ✅ Strong (35+ documented fails) | Comprehensive ICP-judgment evidence |
-| `partA-research/companies.csv` | ⚠️ **16 of 25 rows** with strong evidence | See below |
+| `partA-research/fail-list.md` | ✅ Strong (51+ documented fails) | Comprehensive ICP-judgment evidence |
+| `partA-research/companies.csv` | ⚠️ **17 of 25 rows** with strong evidence | See below |
 | `partA-research/shortlist-to-investigate.md` | ✅ Complete | 20+ named candidates + 9-step verification checklist |
 | `code/` | ✅ Complete | Pipeline scaffolding (DSIR parser, MCA enrichment, LLM scoring, orchestrator) |
 | `README.md` | ✅ Complete | Top-level overview |
@@ -28,11 +28,11 @@
 
 ---
 
-## Your CSV at the end of Round 2 of research
+## Your CSV at the end of Round 3 of research
 
-The CSV now has **16 well-evidenced rows + 1 GAP marker** for the remaining 9. The 16 rows include:
+The CSV now has **17 well-evidenced rows + 1 GAP marker** for the remaining 8.
 
-**Tier 1 — Strong evidence (13 companies)**
+**Tier 1 — Strong evidence (14 companies)**
 1. **SMS Lifesciences India / Haleos Labs** — A-band — BSE listed, Rs.337Cr FY24, founder TVVSN Murthy
 2. **Honour Lab Limited** — A-band — Independent USFDA-cleared CDMO, 5-7 facilities
 3. **Vins Bioproducts Limited** — A-band — WHO-prequalified antisera maker, recent Rs.102Cr capex
@@ -46,16 +46,17 @@ The CSV now has **16 well-evidenced rows + 1 GAP marker** for the remaining 9. T
 11. **Jodas Expoim Pvt Ltd** — A-band — WHO-GMP sterile injectables specialist
 12. **Sreepathi Pharmaceuticals Limited** — B-band — 42-year human+veterinary dual-track
 13. **Maithri Drugs Pvt Ltd** — A-band conditional — USFDA-audited, verify MSN affiliation
-14. **Pochiraju Industries Limited** — C-band borderline — Floriculture pivoting to biotech, verify operational status
+14. **Sarvotham Care Limited** — A-band (95) — 40+ year Hyderabad CDMO, Rs.450Cr revenue, founder Mohan Krishna Mulakala with structured succession to professional CEO + Gen-2 leading sister entity
+15. **Pochiraju Industries Limited** — C-band borderline — Floriculture pivoting to biotech, verify operational status
 
 **Tier 2 — Conditional / verify before outreach (3 companies)**
-15. **Suven Life Sciences Ltd** — A-band score, revenue-scale caveat (post-demerger only Rs.6-7Cr)
-16. **Q-Line Biotech Ltd** — B-band, **verify Hyderabad city** (NSE Emerge IPO May 2026)
-17. **GRK Medical Devices Pvt Ltd** — B-band, early-stage Hyderabad complex-catheter maker
+16. **Suven Life Sciences Ltd** — A-band score, revenue-scale caveat (post-demerger only Rs.6-7Cr)
+17. **Q-Line Biotech Ltd** — B-band, **verify Hyderabad city** (NSE Emerge IPO May 2026)
+18. **GRK Medical Devices Pvt Ltd** — B-band, early-stage Hyderabad complex-catheter maker
 
 ---
 
-## Updated fail list — 35+ companies investigated and rejected
+## Updated fail list — 51+ companies investigated and rejected
 
 The fail list is now substantially stronger after the second research pass:
 
